@@ -26,5 +26,4 @@ Open `index.html` in a browser. Nothing to install; it needs an internet connect
 ## Tech
 HTML, Tailwind CSS, Chart.js (+ annotation plugin), KaTeX.
 
-## Author
-Akshita Rajesh
+
